@@ -1,4 +1,3 @@
 ## email sender
-------------
 
-Live demo: [Email sender](http://form.jakubemfoto.pl)
+Little PHP script for sending emails from the web
